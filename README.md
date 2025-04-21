@@ -1,6 +1,10 @@
 # McDonalds Valuables
 
-<a href="https://thunderstore.io/c/repo/p/Lluciocc/McDonaldsValuables/">Download now</a>
+[![Thunderstore Version](https://img.shields.io/thunderstore/v/Lluciocc/McDonaldsValuables?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/repo/p/GalaxyMods/MoreShopItems)
+[![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/Lluciocc/McDonaldsValuables?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/repo/p/GalaxyMods/MoreShopItems)
+
+
+<a href="https://thunderstore.io/c/repo/p/Lluciocc/McDonaldsValuables/">❤️ Download now</a>
 
 - Adding some mcdonalds valuables.
 
