@@ -1,6 +1,6 @@
 # McDonalds Valuables
 
-
+<a href="https://thunderstore.io/c/repo/p/Lluciocc/McDonaldsValuables/">Download now</a>
 
 - Adding some mcdonalds valuables.
 
