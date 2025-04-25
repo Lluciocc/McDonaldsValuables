@@ -4,7 +4,7 @@
 [![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/Lluciocc/McDonaldsValuables?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/repo/p/GalaxyMods/MoreShopItems)
 
 
-<a href="https://thunderstore.io/c/repo/p/Lluciocc/McDonaldsValuables/">❤️ Download now</a>
+<a href="https://thunderstore.io/c/repo/p/Lluciocc/McDonaldsValuables/">❤️ **Download now**</a>
 
 - Adding some mcdonalds valuables.
 
